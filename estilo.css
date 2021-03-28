@@ -1,0 +1,28 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body{
+    font-family: 'Heebo', sans-serif;
+
+}
+a {
+  background-color: #383F5D;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  border-radius: 8px;
+  padding: 8px ;
+}   
+
+a:hover{
+ background-color: #6D78A8;
+}
+
+h2{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 30px;
+}
+
+p{
+  font-size: 20px;
+}
